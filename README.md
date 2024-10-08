@@ -16,8 +16,11 @@ Data preprocessing is a vital step in the prediction process. Our application cl
 We implement a variety of machine learning models tailored for stock price prediction. These models include:
 
 1.) Linear Regression: A fundamental model used to establish a relationship between the stock prices and independent variables.
+
 2.) Decision Trees: This model offers a visual representation of decision-making processes and predicts stock movements based on historical data patterns.
+
 3.) Random Forest: An ensemble method that enhances prediction accuracy by combining multiple decision trees.
+
 4.) Long Short-Term Memory (LSTM): A type of recurrent neural network (RNN) specifically designed for time-series predictions, allowing our application to capture temporal dependencies in stock prices.
 
 4. Visualization
