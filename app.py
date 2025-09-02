@@ -25,14 +25,6 @@ if var=='Info':
     This project was developed by a team of students from ICT Mumbai as part of our Masters in Engineering Mathematics program. The goal of this project is to create an application that can predict stock market trends using advanced mathematical and machine learning techniques.
     """)
 
-    st.header("Team Members")
-    st.write("""
-    - **Omkar**
-    - **Ankit**
-    - **Advay**
-    - **Rukaiya**
-    """)
-
     st.header("Features")
     st.write("""
     - **Data Collection**: Fetches real-time and historical stock market data.
@@ -53,15 +45,6 @@ if var=='Info':
       - TensorFlow/Keras (for deep learning models)
     - **APIs**: Yahoo Finance API (for stock data)
     - **Version Control**: Git and GitHub
-    """)
-
-    st.header("Contact")
-    st.write("""
-    For any queries or suggestions, please reach out to us:
-    - **Omkar**: [mat22ot.omkar@pg.ictmumbai.edu.in]
-    - **Ankit**: [mat22ag.rai@pg.ictmumbai.edu.in]
-    - **Advay**: [mat22ak.parab@pg.ictmumbai.edu.in]
-    - **Rukaiya**: [mat22ra.shaikh@pg.ictmumbai.edu.in]
     """)
     
 if var=="Holt-Winters":
