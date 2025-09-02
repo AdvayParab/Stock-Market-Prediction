@@ -22,7 +22,7 @@ if var=='Info':
 
     st.header("Project Overview")
     st.write("""
-    This project was developed by a team of students from ICT Mumbai as part of our Masters in Engineering Mathematics program. The goal of this project is to create an application that can predict stock market trends using advanced mathematical and machine learning techniques.
+    This project was developed by me students from ICT Mumbai as part of our Masters in Engineering Mathematics program. The goal of this project is to create an application that can predict stock market trends using advanced mathematical and machine learning techniques.
     """)
 
     st.header("Features")
